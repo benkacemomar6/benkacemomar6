@@ -1,78 +1,79 @@
-[README (1).md](https://github.com/user-attachments/files/33760951/README.1.md)
 <div align="center">
 
-# Hi, I'm Omar Ben Kacem 👋
+# Omar Ben Kacem
 
-### Computer Science Student · Full-Stack Developer
+### Computer Science Student | Backend & Full-Stack Development
 
-Building web applications with React, Node.js, and TypeScript.
-Exploring microservices, DevOps, and AI-powered systems.
+Node.js · TypeScript · React · Distributed Systems
 
-[LinkedIn](https://www.linkedin.com/in/omar-benkacem-66899633b/) · [Email](mailto:benkacemomar6@gmail.com) · [Projects](https://github.com/benkacemomar6?tab=repositories)
+**Tunis, Tunisia · Seeking a final-year (PFE) internship in backend or full-stack development**
 
-**Based in Tunisia · Seeking a PFE internship in full-stack or backend development**
+[LinkedIn](https://www.linkedin.com/in/omar-benkacem-66899633b/) · [Email](mailto:benkacemomar6@gmail.com) · [Repositories](https://github.com/benkacemomar6?tab=repositories)
 
 </div>
 
----
-
 ## About me
 
-I'm a third-year Computer Science student at **ISAMM — Institut Supérieur des Arts Multimédia de la Manouba**. I learn by building projects, solving problems, and understanding how the pieces of an application work together.
+I'm a final-year Computer Science student at **ISAMM, Manouba**, with graduation expected in **2027**. I build full-stack web applications, with a particular interest in backend architecture, reliable service communication, and real-time systems.
 
-My projects cover React interfaces, REST APIs, authentication, databases, and real-time communication. I'm especially interested in backend architecture: how services communicate, how data moves through a system, and how to make applications easier to maintain.
-
-- **Building:** full-stack applications and a real-time chat platform with microservices.
-- **Developing my skills in:** Docker, application observability, and distributed systems.
-- **Learning:** AI APIs, structured outputs, and tool use, with a longer-term goal of building production AI systems.
-- **Practicing:** data structures, algorithms, and problem solving in Python on LeetCode and Codeforces.
-
-## Technologies
-
-| Area | Technologies |
-| --- | --- |
-| Languages | JavaScript, TypeScript, Python, Java, SQL |
-| Frontend | React, HTML, CSS |
-| Backend | Node.js, Express.js, REST APIs, Socket.IO |
-| Databases | MongoDB, Mongoose, MySQL |
-| Service communication | gRPC, RabbitMQ |
-| Authentication | JWT, access and refresh tokens, role-based authorization |
-| Tools & deployment | Git, GitHub, Docker, Postman, Render, Vercel |
-
-**Also exploring:** Redis, Kubernetes, Grafana, and AI application development.
+My projects include a deployed freelance marketplace and a completed chat platform built with microservices. Through these projects, I've worked on authentication, event-driven messaging, caching, containerization, and application observability.
 
 ## Featured projects
 
-### [CoWork — Freelance Marketplace](https://github.com/benkacemomar6/cowork)
+### [Real-Time Chat Platform](https://github.com/benkacemomar6/chat--platform-)
 
-A full-stack marketplace connecting clients and freelancers, developed independently.
+A full-stack messaging application built to explore distributed systems and reliable real-time communication.
 
-- Authentication with email verification, password recovery, and access/refresh tokens.
-- Job listings, proposals, milestones, and reviews.
-- Real-time messaging and notifications, plus administration features.
-- Backend organized into routes, controllers, and services.
+- **Architecture:** Next.js/React frontend and an API gateway connecting authentication, user, chat, and notification services through gRPC.
+- **Real-time features:** Socket.IO messaging, typing indicators, participant authorization, persistent notifications, and unread counts.
+- **Authentication:** JWT access and refresh tokens, with refresh token rotation.
+- **Messaging reliability:** RabbitMQ events with Transactional Outbox, publisher confirms, retry queues, and dead-letter queues.
+- **Data and operations:** MongoDB persistence, Redis caching and real-time data, Docker, Grafana dashboards, structured logs, correlation IDs, and health/readiness endpoints.
 
-**Stack:** React · Node.js · Express · MongoDB · Mongoose · Socket.IO · JWT · Nodemailer
+**Stack:** Next.js · React · TypeScript · Node.js · Express.js · gRPC · RabbitMQ · Socket.IO · MongoDB · Redis · Docker · Grafana
 
-### Real-Time Chat Platform
+### [CoWork | Freelance Marketplace](https://github.com/benkacemomar6/cowork)
 
-A learning project focused on building a chat application with a microservices architecture.
+An independently developed and deployed platform connecting clients and freelancers.
 
-- API gateway with separate authentication, user profile, chat, and notification services.
-- gRPC for communication between services.
-- Socket.IO for real-time messaging, with authenticated connections and participant checks.
-- RabbitMQ for asynchronous events, including retry and dead-letter queue handling.
-- Docker for running supporting infrastructure locally.
+- Job listings, applications, project milestones, reviews, and administration features.
+- JWT authentication with access and refresh tokens, authorization checks, email verification, and password recovery.
+- Real-time messaging and notifications with Socket.IO.
+- Backend deployed on Render, frontend on Vercel, and database hosted on MongoDB Atlas.
 
-**Stack:** React · Node.js · Express · MongoDB · Socket.IO · gRPC · RabbitMQ · Docker
+**Stack:** React · Node.js · Express.js · MongoDB · Mongoose · Socket.IO · Nodemailer
 
-[Explore my repositories →](https://github.com/benkacemomar6?tab=repositories)
+### [Nextronix | E-Commerce Application](https://github.com/Nour-Abbes/e-commerce-uni-project)
 
-## What I'm looking for
+A university team project featuring a product catalog, user management, and order tracking. I contributed to application development and coordinated team work using an Agile/Scrum approach.
 
-A **PFE internship** where I can contribute to a real product, learn from code reviews, and grow as a software engineer. I'm interested in full-stack and backend roles, especially teams working with APIs, real-time features, or distributed systems.
+**Stack:** PHP · MySQL · JavaScript · HTML · CSS
 
-## Get in touch
+## Technical skills
 
-- **Email:** [benkacemomar6@gmail.com](mailto:benkacemomar6@gmail.com)
-- **LinkedIn:** [Omar Ben Kacem](https://www.linkedin.com/in/omar-benkacem-66899633b/)
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript, TypeScript, Python, Java, PHP, PL/SQL |
+| Frontend | React, Next.js, HTML, CSS |
+| Backend | Node.js, Express.js, REST APIs, Mongoose |
+| Authentication | JWT, access and refresh tokens, bcrypt, authorization |
+| Communication | gRPC, RabbitMQ, Socket.IO |
+| Databases & cache | MongoDB, MySQL, Redis |
+| Architecture | Microservices, API gateways, MVC, Transactional Outbox |
+| Tools & observability | Docker, Git, GitHub, Postman, Grafana, structured logging |
+| Deployment | Render, Vercel, MongoDB Atlas |
+
+## Problem solving & community
+
+- Solved **100+ algorithmic problems** across LeetCode and Codeforces.
+- Competed in **CodeQuest 3.0 (INSAT)**: 39th out of 85 teams.
+- Solved **9 of 14 problems** at **TakTik 2.0 (FST)** with my team.
+- Member of the **ISAMM Problem Solving Club (IPS)**.
+
+## Internship & contact
+
+I'm looking for a **final-year (PFE) internship in backend or full-stack development**, where I can contribute to a product, learn through code reviews, and deepen my software engineering skills. I'm especially interested in APIs, real-time applications, and distributed systems.
+
+**Languages:** Arabic (native) · English (fluent) · French (intermediate)
+
+[Email me](mailto:benkacemomar6@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/omar-benkacem-66899633b/)
