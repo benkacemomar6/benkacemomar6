@@ -49,6 +49,12 @@ A university team project featuring a product catalog, user management, and orde
 
 **Stack:** PHP · MySQL · JavaScript · HTML · CSS
 
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,php,react,nextjs,html,css,nodejs,express,mongodb,mysql,redis,rabbitmq,docker,git,github,postman,grafana,vercel&perline=7" alt="JavaScript, TypeScript, Python, Java, PHP, React, Next.js, HTML, CSS, Node.js, Express, MongoDB, MySQL, Redis, RabbitMQ, Docker, Git, GitHub, Postman, Grafana and Vercel" />
+</p>
+
 ## Technical skills
 
 | Area | Technologies |
@@ -77,3 +83,4 @@ I'm looking for a **final-year (PFE) internship in backend or full-stack develop
 **Languages:** Arabic (native) · English (fluent) · French (intermediate)
 
 [Email me](mailto:benkacemomar6@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/omar-benkacem-66899633b/)
+&²  a&² a   &²a
